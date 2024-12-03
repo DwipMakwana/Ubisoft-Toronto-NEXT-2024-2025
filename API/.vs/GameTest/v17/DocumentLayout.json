@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\dwipm\\Downloads\\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\\API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A12010B-608E-4FBE-9089-494DBB9078A1}|GameTest\\GameTest.vcxproj|C:\\Users\\dwipm\\Downloads\\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\\API\\GameTest\\App\\app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7A12010B-608E-4FBE-9089-494DBB9078A1}|GameTest\\GameTest.vcxproj|solutionrelative:GameTest\\App\\app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7A12010B-608E-4FBE-9089-494DBB9078A1}|GameTest\\GameTest.vcxproj|C:\\Users\\dwipm\\Downloads\\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\\API\\GameTest\\SpaceShooter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A12010B-608E-4FBE-9089-494DBB9078A1}|GameTest\\GameTest.vcxproj|solutionrelative:GameTest\\SpaceShooter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7A12010B-608E-4FBE-9089-494DBB9078A1}|GameTest\\GameTest.vcxproj|C:\\Users\\dwipm\\Downloads\\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\\API\\GameTest\\App\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7A12010B-608E-4FBE-9089-494DBB9078A1}|GameTest\\GameTest.vcxproj|solutionrelative:GameTest\\App\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A12010B-608E-4FBE-9089-494DBB9078A1}|GameTest\\GameTest.vcxproj|C:\\Users\\dwipm\\Downloads\\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\\API\\GameTest\\App\\SimpleController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7A12010B-608E-4FBE-9089-494DBB9078A1}|GameTest\\GameTest.vcxproj|solutionrelative:GameTest\\App\\SimpleController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A12010B-608E-4FBE-9089-494DBB9078A1}|GameTest\\GameTest.vcxproj|C:\\Users\\dwipm\\Downloads\\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\\API\\GameTest\\App\\SimpleSound.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7A12010B-608E-4FBE-9089-494DBB9078A1}|GameTest\\GameTest.vcxproj|solutionrelative:GameTest\\App\\SimpleSound.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A12010B-608E-4FBE-9089-494DBB9078A1}|GameTest\\GameTest.vcxproj|C:\\Users\\dwipm\\Downloads\\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\\API\\GameTest\\App\\SimpleSprite.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7A12010B-608E-4FBE-9089-494DBB9078A1}|GameTest\\GameTest.vcxproj|solutionrelative:GameTest\\App\\SimpleSprite.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A12010B-608E-4FBE-9089-494DBB9078A1}|GameTest\\GameTest.vcxproj|C:\\Users\\dwipm\\Downloads\\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\\API\\GameTest\\GameTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7A12010B-608E-4FBE-9089-494DBB9078A1}|GameTest\\GameTest.vcxproj|solutionrelative:GameTest\\GameTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7A12010B-608E-4FBE-9089-494DBB9078A1}|GameTest\\GameTest.vcxproj|C:\\Users\\dwipm\\Downloads\\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\\API\\GameTest\\App\\app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A12010B-608E-4FBE-9089-494DBB9078A1}|GameTest\\GameTest.vcxproj|solutionrelative:GameTest\\App\\app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,14 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SpaceShooter.cpp",
+              "DocumentMoniker": "C:\\Users\\dwipm\\Downloads\\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\\API\\GameTest\\SpaceShooter.cpp",
+              "RelativeDocumentMoniker": "GameTest\\SpaceShooter.cpp",
+              "ToolTip": "C:\\Users\\dwipm\\Downloads\\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\\API\\GameTest\\SpaceShooter.cpp",
+              "RelativeToolTip": "GameTest\\SpaceShooter.cpp",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAAAL0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-02T20:35:08.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "app.cpp",
               "DocumentMoniker": "C:\\Users\\dwipm\\Downloads\\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\\API\\GameTest\\App\\app.cpp",
               "RelativeDocumentMoniker": "GameTest\\App\\app.cpp",
               "ToolTip": "C:\\Users\\dwipm\\Downloads\\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\\API\\GameTest\\App\\app.cpp",
               "RelativeToolTip": "GameTest\\App\\app.cpp",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAAAGMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAADUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-30T22:19:04.189Z",
+              "WhenOpened": "2024-12-02T20:17:37.461Z",
               "EditorCaption": ""
             },
             {
@@ -57,61 +58,9 @@
               "RelativeDocumentMoniker": "GameTest\\App\\main.cpp",
               "ToolTip": "C:\\Users\\dwipm\\Downloads\\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\\API\\GameTest\\App\\main.cpp",
               "RelativeToolTip": "GameTest\\App\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-30T22:19:03.325Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SimpleController.cpp",
-              "DocumentMoniker": "C:\\Users\\dwipm\\Downloads\\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\\API\\GameTest\\App\\SimpleController.cpp",
-              "RelativeDocumentMoniker": "GameTest\\App\\SimpleController.cpp",
-              "ToolTip": "C:\\Users\\dwipm\\Downloads\\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\\API\\GameTest\\App\\SimpleController.cpp",
-              "RelativeToolTip": "GameTest\\App\\SimpleController.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-30T22:19:02.279Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SimpleSound.cpp",
-              "DocumentMoniker": "C:\\Users\\dwipm\\Downloads\\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\\API\\GameTest\\App\\SimpleSound.cpp",
-              "RelativeDocumentMoniker": "GameTest\\App\\SimpleSound.cpp",
-              "ToolTip": "C:\\Users\\dwipm\\Downloads\\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\\API\\GameTest\\App\\SimpleSound.cpp",
-              "RelativeToolTip": "GameTest\\App\\SimpleSound.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-30T22:19:01.421Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SimpleSprite.cpp",
-              "DocumentMoniker": "C:\\Users\\dwipm\\Downloads\\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\\API\\GameTest\\App\\SimpleSprite.cpp",
-              "RelativeDocumentMoniker": "GameTest\\App\\SimpleSprite.cpp",
-              "ToolTip": "C:\\Users\\dwipm\\Downloads\\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\\API\\GameTest\\App\\SimpleSprite.cpp",
-              "RelativeToolTip": "GameTest\\App\\SimpleSprite.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-30T22:18:59.787Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GameTest.cpp",
-              "DocumentMoniker": "C:\\Users\\dwipm\\Downloads\\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\\API\\GameTest\\GameTest.cpp",
-              "RelativeDocumentMoniker": "GameTest\\GameTest.cpp",
-              "ToolTip": "C:\\Users\\dwipm\\Downloads\\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\\API\\GameTest\\GameTest.cpp",
-              "RelativeToolTip": "GameTest\\GameTest.cpp",
-              "ViewState": "AgIAAIoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-30T22:18:52.156Z",
               "EditorCaption": ""
             }
           ]

@@ -1,13 +1,19 @@
-﻿  stdafx.cpp
-  app.cpp
-  main.cpp
-  SimpleController.cpp
-  SimpleSound.cpp
-  SimpleSprite.cpp
-  GameTest.cpp
-  miniaudio.cpp
-  stb_image.cpp
-  Generating Code...
+﻿  SpaceShooter.cpp
+C:\Users\dwipm\Downloads\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\API\GameTest\SpaceShooter.cpp(47,39): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  (compiling source file '/SpaceShooter.cpp')
+  
+C:\Users\dwipm\Downloads\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\API\GameTest\SpaceShooter.cpp(56,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file '/SpaceShooter.cpp')
+  
+C:\Users\dwipm\Downloads\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\API\GameTest\SpaceShooter.cpp(141,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/SpaceShooter.cpp')
+  
+C:\Users\dwipm\Downloads\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\API\GameTest\SpaceShooter.cpp(142,36): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  (compiling source file '/SpaceShooter.cpp')
+  
+C:\Users\dwipm\Downloads\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\API\GameTest\SpaceShooter.cpp(234,34): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  (compiling source file '/SpaceShooter.cpp')
+  
   GameTest.vcxproj -> C:\Users\dwipm\Downloads\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\API\x64\Debug\GameTest.exe
   C:\Users\dwipm\Downloads\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\API\\GameTest\glut\bin\x64\freeglut.dll
   1 File(s) copied
