@@ -93,6 +93,20 @@ namespace App
 		}
 	}
 
+	void PrintCentered(const float x, const float y, const char* st, const float r, const float g, const float b, void* font)
+	{
+		float textWidth = strlen(st) * 10.0f; // Estimate 10 units per character
+		float centerX = x - textWidth / 2;
+		Print(centerX, y, st, r, g, b, font);
+	}
+
+	void PrintRightAligned(const float x, const float y, const char* st, const float r, const float g, const float b, void* font)
+	{
+		float textWidth = strlen(st) * 10.0f; // Estimate 10 units per character
+		float rightX = x;
+		App::Print(rightX - textWidth, y, st, r, g, b, font);
+	}
+
 	const CController &GetController(const int pad )
 	{
 		return CSimpleControllers::GetInstance().GetController(pad);

@@ -1,17 +1,38 @@
 ﻿  SpaceShooter.cpp
-C:\Users\dwipm\Downloads\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\API\GameTest\SpaceShooter.cpp(47,39): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\dwipm\Downloads\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\API\GameTest\SpaceShooter.cpp(50,39): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
   (compiling source file '/SpaceShooter.cpp')
   
-C:\Users\dwipm\Downloads\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\API\GameTest\SpaceShooter.cpp(56,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\dwipm\Downloads\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\API\GameTest\SpaceShooter.cpp(61,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   (compiling source file '/SpaceShooter.cpp')
   
-C:\Users\dwipm\Downloads\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\API\GameTest\SpaceShooter.cpp(141,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\dwipm\Downloads\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\API\GameTest\SpaceShooter.cpp(75,50): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
   (compiling source file '/SpaceShooter.cpp')
   
-C:\Users\dwipm\Downloads\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\API\GameTest\SpaceShooter.cpp(142,36): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\dwipm\Downloads\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\API\GameTest\SpaceShooter.cpp(183,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
   (compiling source file '/SpaceShooter.cpp')
   
-C:\Users\dwipm\Downloads\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\API\GameTest\SpaceShooter.cpp(234,34): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\dwipm\Downloads\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\API\GameTest\SpaceShooter.cpp(184,36): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  (compiling source file '/SpaceShooter.cpp')
+  
+C:\Users\dwipm\Downloads\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\API\GameTest\SpaceShooter.cpp(241,53): warning C4101: 'playerX': unreferenced local variable
+  (compiling source file '/SpaceShooter.cpp')
+  
+C:\Users\dwipm\Downloads\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\API\GameTest\SpaceShooter.cpp(241,62): warning C4101: 'playerY': unreferenced local variable
+  (compiling source file '/SpaceShooter.cpp')
+  
+C:\Users\dwipm\Downloads\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\API\GameTest\SpaceShooter.cpp(296,56): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  (compiling source file '/SpaceShooter.cpp')
+  
+C:\Users\dwipm\Downloads\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\API\GameTest\SpaceShooter.cpp(296,28): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  (compiling source file '/SpaceShooter.cpp')
+  
+C:\Users\dwipm\Downloads\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\API\GameTest\SpaceShooter.cpp(300,60): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  (compiling source file '/SpaceShooter.cpp')
+  
+C:\Users\dwipm\Downloads\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\API\GameTest\SpaceShooter.cpp(300,41): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  (compiling source file '/SpaceShooter.cpp')
+  
+C:\Users\dwipm\Downloads\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\API\GameTest\SpaceShooter.cpp(307,38): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
   (compiling source file '/SpaceShooter.cpp')
   
   GameTest.vcxproj -> C:\Users\dwipm\Downloads\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\API\x64\Debug\GameTest.exe
